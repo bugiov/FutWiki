@@ -1,0 +1,6 @@
+
+.idea/
+
+lib/__pycache__/
+
+gui/__pycache__/
